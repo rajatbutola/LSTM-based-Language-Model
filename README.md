@@ -30,14 +30,14 @@ To install and run this project, follow these steps:
 ## 4. Usage
 To use the next word predictor:
 
-1. Prepare the Data:
+### 4.1. Prepare the Data:
 - Ensure you have a dataset of text for training.
 - Modify the data preprocessing script if necessary.
 
-2. Train the Model:
+### 4.2. Train the Model:
 - Run the training script to train the model on your dataset.
 
-3. Predict the Next Word:
+### 4.3. Predict the Next Word:
 - Use the trained model to predict the next word in a sequence.
 
    ```python
@@ -54,7 +54,8 @@ To use the next word predictor:
    ```
 
 ## 5. Evaluation
-Output: A word-by-word output up to 10 words is predicted for the above given sentence. This length can be varied.
+Output: A word-by-word output of up to 10 words is predicted for the above-given sentence. This length can be varied. The evaluation script provides a detailed analysis of the model's prediction capabilities.
+
 ```python
 1/1 [==============================] - 0s 35ms/step
 Advanced biology research also was
@@ -72,6 +73,7 @@ Advanced biology research also was underway aboard the orbiting lab on thursday 
 Advanced biology research also was underway aboard the orbiting lab on thursday with astronauts
 ```
 
+
 ## 6. Contribution
 
-Contributions are welcome! Please submit a pull request or open an issue for any feature requests or bug reports.
+Contributions are welcome! Please submit a pull request or open an issue for any feature requests or bug reports. For major changes, please open an issue first to discuss what you would like to change.
