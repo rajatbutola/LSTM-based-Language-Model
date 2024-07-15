@@ -24,8 +24,8 @@ To install and run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rajatbutola/NLP-LSTM-Next-Word-Predictor.git
-   cd NLP-LSTM-Next-Word-Predictor
+   git clone https://github.com/rajatbutola/LSTM-based-Language-Model.git
+   cd Next-Word-Predictor
 
 ## 4. Usage
 To use the next word predictor:
