@@ -1,6 +1,6 @@
 # LSTM-based-Language-Model
 
-This project implements a Language Model that can predict next Word using a Long Short-Term Memory (LSTM) neural network. The predictor takes a sequence of words as input and predicts the most likely next word. This can be useful for applications such as text auto-completion and language modeling.
+This project implements a Language Model that can predict the next Word using a Long Short-Term Memory (LSTM) neural network. The predictor takes a sequence of words as input and predicts the most likely next word. This can be useful for applications such as text auto-completion and language modeling.
 
 ## Table of Contents
 1. [Introduction](#1-introduction)
