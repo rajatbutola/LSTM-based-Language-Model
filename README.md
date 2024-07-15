@@ -56,7 +56,7 @@ To use the next word predictor:
 ## 5. Evaluation
 Output: A word-by-word output of up to 10 words is predicted for the above-given sentence. This length can be varied. The evaluation script provides a detailed analysis of the model's prediction capabilities.
 
-```python
+```bash
 1/1 [==============================] - 0s 35ms/step
 Advanced biology research also was
 1/1 [==============================] - 0s 29ms/step
