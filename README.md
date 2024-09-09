@@ -76,4 +76,4 @@ Advanced biology research also was underway aboard the orbiting lab on thursday 
 
 ## 6. Contribution
 
-Contributions are welcome! Please submit a pull request or open an issue for any feature requests or bug reports. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome! Please submit a pull request or open an issue for any feature requests or bug report. For major changes, please open an issue first to discuss what you would like to change.
